@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Music Player</title>
+  <link rel="stylesheet" href="../treinar/styles.css">
+
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+
+<body>
+  <div class="btn">
+    <a href="../Pop/index.html"><button type="button">Pop</button></a>
+    <a href="../treinar/index.html"><button type="button">Treinar</button></a>
+    <a href="../cristão/index.html"><button type="button">Cristão</button></a>
+  </div>
+
+  <div class="player">
+
+    <div class="logo">
+      <p>Treinar</p>
+    </div>
+
+    <span id="musicName"></span>
+
+    <audio id="player" src=""></audio>
+    <div class="controls">
+      <button id="prevButton"><i class='bx bx-skip-previous'></i></button>
+      <button id="playPauseButton"><i class='bx bx-caret-right'></i></button>
+      <button id="nextButton"><i class='bx bx-skip-next'></i></button>
+    </div>
+    <div class="footer">
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+      <div class="time">
+        <span id="currentTime">0:00</span>
+        <span id="duration">0:00</span>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="script.js"></script>
+
+  <div class="bunny">
+    <a href="https://fabulous-bunny-35e2c0.netlify.app/">
+      <h1>Jonas_fab</h1>
+    </a>
+  </div>
+
+</body>
+
+</html>
