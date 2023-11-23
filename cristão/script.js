@@ -29,20 +29,6 @@ const playPause = () => {
     playPauseButton.innerHTML = textButtonPlay;
   }
 
-
-
-if (event.target.id == "volume") {
-  currentMusic.audio.volume = event.target.valueAsNumber / 100;
-}
-
-if (event.target.id == "progress") {
-  currentMusic.audio.currentTime = event.target.valueAsNumber;
-}
-
-
-
-  
-
 };
 
 
