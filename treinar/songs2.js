@@ -1,26 +1,35 @@
 export default [
     {
-      src: "./src/Dude - Patrick Patrikios.mp3",
-      name: "Dude - Patrick Patrikios",
+      src: "./training/2Pac - CREED feat. DMX, Eminem & Nate Dogg.mp3",
+      name: "2Pac - CREED feat. DMX, Eminem & Nate Dogg",
     },
     {
-      src: "./src/Girl Before A Mirror - Verified Picasso.mp3",
-      name: "Girl Before A Mirror - Verified Picasso",
+      src: "./training/Lose Yourself  Eminem __ SOUTHPAW.mp3",
+      name: "Lose Yourself  Eminem __ SOUTHPAW",
     },
     {
-      src: "./src/Like That - Anno Domini Beats.mp3",
-      name: "Like That - Anno Domini Beats",
+      src: "./training/The Beginning.mp3",
+      name: "The Beginning",
     },
     {
-      src: "./src/Shake - Anno Domini Beats.mp3",
-      name: "Shake - Anno Domini Beats",
+      src: "./training/Motivation _ Dwayne Johnson.mp3",
+      name: "Motivation _ Dwayne Johnson",
     },
     {
-      src: "./src/Turn Up Burn Up - Diamond Ortiz.mp3",
-      name: "Turn Up Burn Up - Diamond Ortiz",
+      src: "./training/Till I’ Collapse - Real Steel.mp3",
+      name: "Till I’ Collapse - Real Steel",
     },
     {
-      src: "./src/Yo Picasso - Verified Picasso.mp3",
-      name: "Yo Picasso - Verified Picasso",
+      src: "./training/Peaky Blinders  Gangsta's Paradise - Coolio.mp3",
+      name: "Peaky Blinders  Gangsta's Paradise - Coolio",
     },
+    {
+      src: "./training/Linkin Park - In The End.mp3",
+      name: "Linkin Park - In The End",
+    },
+    {
+      src: "./training/Fleurie - Breathe.mp3",
+      name: "Fleurie - Breathe",
+    },
+
   ];
